@@ -39,6 +39,8 @@
       "https://barac9492.github.io/profile-card.json",
       "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
       "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+      "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
+      "https://barac9492.github.io/category-answer-briefs.jsonld",
       "https://barac9492.github.io/identity.jsonld",
       "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
       "https://github.com/Barac9492",
@@ -54,6 +56,8 @@
     "https://barac9492.github.io/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
+    "https://barac9492.github.io/category-answer-briefs.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
   ],
@@ -74,6 +78,8 @@
     "https://barac9492.github.io/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
+    "https://barac9492.github.io/category-answer-briefs.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
   ]

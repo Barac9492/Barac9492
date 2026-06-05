@@ -40,5 +40,8 @@ identifiers:
     value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json"
     description: "Raw GitHub category answer briefs"
   - type: url
+    value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld"
+    description: "Raw GitHub category answer JSON-LD"
+  - type: url
     value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld"
     description: "GitHub profile JSON-LD graph"

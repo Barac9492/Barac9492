@@ -14,6 +14,7 @@
     "githubPagesProfileCard": "https://barac9492.github.io/profile-card.json",
     "githubProfileCard": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "githubCategoryAnswerBriefsJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
     "githubProfileJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "githubCitationMetadata": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff",
     "githubCodeMeta": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json",
