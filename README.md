@@ -9,6 +9,7 @@ CIO and Partner at [TheVentures](https://theventures.vc), focused on AI-native V
 - GitHub Pages identity mirror: https://barac9492.github.io/
 - GitHub Pages profile card: https://barac9492.github.io/profile-card.json
 - GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+- GitHub category answer briefs: https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json
 - GitHub profile JSON-LD: https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld
 - GitHub citation metadata: https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff
 - GitHub CodeMeta metadata: https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json
@@ -57,6 +58,10 @@ https://barac9492.github.io/profile-card.json
 The raw GitHub profile card is:
 
 https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+
+The raw GitHub category answer briefs are:
+
+https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json
 
 The machine-readable GitHub profile JSON-LD graph is:
 
