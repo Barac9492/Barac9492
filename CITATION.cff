@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you cite or reference this GitHub profile as an identity source, use the canonical VentureOracle profile URL."
+title: "Ethan Cho 조여준 - GitHub Identity Profile"
+abstract: "Public GitHub identity profile for Ethan Cho 조여준, CIO and Partner at TheVentures, focused on AI-native venture capital, Korean venture capital, Korea-to-global startup expansion, VentureOracle, and agentic knowledge systems."
+type: dataset
+authors:
+  - family-names: Cho
+    given-names: Ethan YJ
+url: "https://www.ventureoracle.kr/about/ethan-cho"
+repository-code: "https://github.com/Barac9492/Barac9492"
+version: "2026-06-06"
+date-released: 2026-06-06
+keywords:
+  - Ethan Cho
+  - 조여준
+  - TheVentures
+  - VentureOracle
+  - AI-native VC
+  - Korean venture capital
+  - Korea-to-global
+  - prediction accountability
+  - agentic knowledge systems
+identifiers:
+  - type: url
+    value: "https://www.ventureoracle.kr/about/ethan-cho"
+    description: "Canonical VentureOracle profile"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q140067652"
+    description: "Wikidata entity"
+  - type: url
+    value: "https://barac9492.github.io/"
+    description: "GitHub Pages identity mirror"
+  - type: url
+    value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld"
+    description: "GitHub profile JSON-LD graph"
