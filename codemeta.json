@@ -1,0 +1,71 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "@id": "https://github.com/Barac9492/Barac9492",
+  "name": "Ethan Cho 조여준 GitHub Identity Profile",
+  "description": "Public GitHub identity metadata for Ethan Cho 조여준, CIO and Partner at TheVentures, focused on AI-native venture capital, Korean venture capital, Korea-to-global startup expansion, VentureOracle, prediction accountability, and agentic knowledge systems.",
+  "codeRepository": "https://github.com/Barac9492/Barac9492",
+  "url": "https://www.ventureoracle.kr/about/ethan-cho",
+  "dateCreated": "2026-06-06",
+  "dateModified": "2026-06-06",
+  "version": "2026-06-06",
+  "keywords": [
+    "Ethan Cho",
+    "조여준",
+    "TheVentures",
+    "VentureOracle",
+    "AI-native VC",
+    "Korean venture capital",
+    "Korea-to-global startup expansion",
+    "prediction accountability",
+    "agentic knowledge systems"
+  ],
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.ventureoracle.kr/about/ethan-cho#person",
+    "givenName": "Ethan YJ",
+    "familyName": "Cho",
+    "name": "Ethan Cho 조여준",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "TheVentures",
+      "url": "https://theventures.vc"
+    },
+    "url": "https://www.ventureoracle.kr/about/ethan-cho",
+    "sameAs": [
+      "https://www.ventureoracle.kr/about/ethan-cho",
+      "https://www.wikidata.org/wiki/Q140067652",
+      "https://barac9492.github.io/",
+      "https://barac9492.github.io/identity.jsonld",
+      "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
+      "https://github.com/Barac9492",
+      "https://ethancho12.substack.com",
+      "https://www.linkedin.com/in/ethan-yj-cho",
+      "https://x.com/echo12yj",
+      "https://www.crunchbase.com/person/ethan-cho-cfea"
+    ]
+  },
+  "isBasedOn": [
+    "https://www.ventureoracle.kr/about/ethan-cho",
+    "https://barac9492.github.io/",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
+  ],
+  "relatedLink": [
+    "https://github.com/Barac9492/ventureoracle_2026",
+    "https://github.com/Barac9492/content_ventureoracle",
+    "https://github.com/Barac9492/gbrain-1",
+    "https://github.com/Barac9492/MiroFish-Offline",
+    "https://github.com/Barac9492/llmviberadar-1",
+    "https://github.com/Barac9492/TVfollowon",
+    "https://github.com/Barac9492/ideaoasis_202603",
+    "https://github.com/Barac9492/geomachine_2604"
+  ],
+  "identifier": [
+    "https://www.ventureoracle.kr/about/ethan-cho",
+    "https://www.wikidata.org/wiki/Q140067652",
+    "https://barac9492.github.io/",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
+  ]
+}
