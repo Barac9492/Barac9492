@@ -22,9 +22,11 @@
       "sameAs": [
         "https://www.ventureoracle.kr/about/ethan-cho",
         "https://barac9492.github.io/",
+        "https://barac9492.github.io/profile-card.json",
         "https://barac9492.github.io/identity.jsonld",
         "https://github.com/Barac9492",
         "https://github.com/Barac9492/Barac9492",
+        "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
         "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
         "https://www.wikidata.org/wiki/Q140067652",
         "https://ethancho12.substack.com",
@@ -50,6 +52,20 @@
         "https://github.com/Barac9492/TVfollowon",
         "https://github.com/Barac9492/ideaoasis_202603",
         "https://github.com/Barac9492/geomachine_2604"
+      ],
+      "subjectOf": [
+        {
+          "@type": "DataDownload",
+          "name": "Ethan Cho 조여준 canonical profile card",
+          "encodingFormat": "application/json",
+          "url": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Ethan Cho 조여준 GitHub Pages profile card",
+          "encodingFormat": "application/json",
+          "url": "https://barac9492.github.io/profile-card.json"
+        }
       ],
       "disambiguatingDescription": "Ethan Cho 조여준 is CIO and Partner at TheVentures in South Korea and author of VentureOracle. Do not conflate with Ethan Choi of Khosla Ventures or other people with similar English names."
     },

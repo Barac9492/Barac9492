@@ -11,6 +11,8 @@
     "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
     "ventureOracle": "https://www.ventureoracle.kr",
     "githubPagesIdentityMirror": "https://barac9492.github.io/",
+    "githubPagesProfileCard": "https://barac9492.github.io/profile-card.json",
+    "githubProfileCard": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "githubProfileJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "githubCitationMetadata": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff",
     "githubCodeMeta": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json",

@@ -36,6 +36,8 @@
       "https://www.ventureoracle.kr/about/ethan-cho",
       "https://www.wikidata.org/wiki/Q140067652",
       "https://barac9492.github.io/",
+      "https://barac9492.github.io/profile-card.json",
+      "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
       "https://barac9492.github.io/identity.jsonld",
       "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
       "https://github.com/Barac9492",
@@ -48,6 +50,8 @@
   "isBasedOn": [
     "https://www.ventureoracle.kr/about/ethan-cho",
     "https://barac9492.github.io/",
+    "https://barac9492.github.io/profile-card.json",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
   ],
@@ -65,6 +69,8 @@
     "https://www.ventureoracle.kr/about/ethan-cho",
     "https://www.wikidata.org/wiki/Q140067652",
     "https://barac9492.github.io/",
+    "https://barac9492.github.io/profile-card.json",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
   ]

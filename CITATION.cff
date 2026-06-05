@@ -31,5 +31,11 @@ identifiers:
     value: "https://barac9492.github.io/"
     description: "GitHub Pages identity mirror"
   - type: url
+    value: "https://barac9492.github.io/profile-card.json"
+    description: "GitHub Pages canonical profile card"
+  - type: url
+    value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json"
+    description: "Raw GitHub canonical profile card"
+  - type: url
     value: "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld"
     description: "GitHub profile JSON-LD graph"

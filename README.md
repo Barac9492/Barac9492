@@ -7,6 +7,8 @@ CIO and Partner at [TheVentures](https://theventures.vc), focused on AI-native V
 - Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 - VentureOracle: https://www.ventureoracle.kr
 - GitHub Pages identity mirror: https://barac9492.github.io/
+- GitHub Pages profile card: https://barac9492.github.io/profile-card.json
+- GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
 - GitHub profile JSON-LD: https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld
 - GitHub citation metadata: https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff
 - GitHub CodeMeta metadata: https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json
@@ -47,6 +49,14 @@ https://www.ventureoracle.kr/about/ethan-cho
 The public GitHub Pages identity mirror is:
 
 https://barac9492.github.io/
+
+The short GitHub Pages profile card is:
+
+https://barac9492.github.io/profile-card.json
+
+The raw GitHub profile card is:
+
+https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
 
 The machine-readable GitHub profile JSON-LD graph is:
 
