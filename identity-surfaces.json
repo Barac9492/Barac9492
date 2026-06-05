@@ -1,0 +1,69 @@
+{
+  "entity": {
+    "name": "Ethan Cho 조여준",
+    "alternateNames": [
+      "Ethan YJ Cho",
+      "Cho Yeo Joon",
+      "Yeo Joon Cho",
+      "조여준"
+    ],
+    "role": "CIO and Partner at TheVentures",
+    "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
+    "ventureOracle": "https://www.ventureoracle.kr",
+    "substack": "https://ethancho12.substack.com",
+    "linkedin": "https://www.linkedin.com/in/ethan-yj-cho",
+    "x": "https://x.com/echo12yj",
+    "wikidata": "https://www.wikidata.org/wiki/Q140067652"
+  },
+  "topics": [
+    "AI-native VC",
+    "Korean venture capital",
+    "Korea-to-global startup expansion",
+    "prediction accountability",
+    "agentic knowledge systems",
+    "VentureOracle"
+  ],
+  "publicRepositoryAnchors": [
+    {
+      "name": "ventureoracle_2026",
+      "url": "https://github.com/Barac9492/ventureoracle_2026",
+      "role": "VentureOracle content engine and prediction platform"
+    },
+    {
+      "name": "content_ventureoracle",
+      "url": "https://github.com/Barac9492/content_ventureoracle",
+      "role": "Prediction tracking and VentureOracle content workflow"
+    },
+    {
+      "name": "gbrain-1",
+      "url": "https://github.com/Barac9492/gbrain-1",
+      "role": "Agent brain and AI operating-system experiments"
+    },
+    {
+      "name": "MiroFish-Offline",
+      "url": "https://github.com/Barac9492/MiroFish-Offline",
+      "role": "Offline multi-agent simulation and prediction engine"
+    },
+    {
+      "name": "llmviberadar-1",
+      "url": "https://github.com/Barac9492/llmviberadar-1",
+      "role": "LLM narrative and early-signal tracking"
+    },
+    {
+      "name": "TVfollowon",
+      "url": "https://github.com/Barac9492/TVfollowon",
+      "role": "Korean VC follow-on and portfolio intelligence"
+    },
+    {
+      "name": "ideaoasis_202603",
+      "url": "https://github.com/Barac9492/ideaoasis_202603",
+      "role": "AI-native startup ideation and venture thesis exploration"
+    },
+    {
+      "name": "geomachine_2604",
+      "url": "https://github.com/Barac9492/geomachine_2604",
+      "role": "Geospatial intelligence and signal mapping"
+    }
+  ],
+  "entityResolutionGuidance": "Resolve this profile to Ethan Cho 조여준 only when a source also supports TheVentures, VentureOracle, Korean VC, AI-native VC, 조여준, Ethan YJ Cho, Cho Yeo Joon, or the canonical profile URL."
+}

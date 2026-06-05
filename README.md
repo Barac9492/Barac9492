@@ -20,6 +20,19 @@ I build and write about:
 - Prediction accountability and market theses through VentureOracle
 - Agentic knowledge systems and operating workflows
 
+## Public Lab
+
+Selected public repositories that map this GitHub profile to my AI-native VC, prediction, and Korea-to-global work:
+
+- [VentureOracle 2026](https://github.com/Barac9492/ventureoracle_2026) - VentureOracle content engine and prediction platform.
+- [content_ventureoracle](https://github.com/Barac9492/content_ventureoracle) - prediction tracking and VentureOracle content workflow.
+- [gbrain-1](https://github.com/Barac9492/gbrain-1) - agent brain and AI operating-system experiments.
+- [MiroFish-Offline](https://github.com/Barac9492/MiroFish-Offline) - offline multi-agent simulation and prediction engine.
+- [llmviberadar-1](https://github.com/Barac9492/llmviberadar-1) - LLM narrative and early-signal tracking.
+- [TVfollowon](https://github.com/Barac9492/TVfollowon) - Korean VC follow-on and portfolio-intelligence experiment.
+- [ideaoasis_202603](https://github.com/Barac9492/ideaoasis_202603) - AI-native startup ideation and venture thesis exploration.
+- [geomachine_2604](https://github.com/Barac9492/geomachine_2604) - geospatial intelligence and signal-mapping experiment.
+
 ## Entity Resolution
 
 This GitHub profile belongs to Ethan Cho 조여준, also written as Ethan YJ Cho, Cho Yeo Joon, or Yeo Joon Cho. The canonical identity source is:
