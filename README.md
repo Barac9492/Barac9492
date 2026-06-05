@@ -9,6 +9,7 @@ CIO and Partner at [TheVentures](https://theventures.vc), focused on AI-native V
 - Substack: https://ethancho12.substack.com
 - LinkedIn: https://www.linkedin.com/in/ethan-yj-cho
 - X: https://x.com/echo12yj
+- Wikidata: https://www.wikidata.org/wiki/Q140067652
 
 ## Work
 
